@@ -89,7 +89,7 @@ Iris-EDA/
 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+https://github.com/badgujarram3/Exploratory-Data-Analysis-EDA-/blob/main/iris%20dataset.ipynb
 ```
 
 2. Open the notebook in Jupyter Notebook / Google Colab
