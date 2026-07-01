@@ -38,11 +38,8 @@ Each project demonstrates the process of:
 
 This repository contains multiple EDA projects such as:
 
-* 📈 Sales Data Analysis
-* 🎬 Netflix Data Analysis
-* 🏏 IPL Data Analysis
-* 🛒 Customer Behavior Analysis
-* 💰 Financial Data Analysis
+*  Thyroid - EDA
+*  Iris - EDA
 
 📌 *Note: New projects are added regularly as part of continuous learning.*
 
